@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">SampleOTP</string>
+    <string name="enter_via_otp">ورود به روش گذرواژه یکبار مصرف</string>
+    <string name="enter_your_phone_or_email">شماره همراه/رایانامه خود را وارد کنید</string>
+    <string name="enter">ورود</string>
+    <string name="required_text">وارد کردن این قسمت الزامی است!</string>
+    <string name="verify_sended_code">تایید کد ارسال شده</string>
+    <string name="enter_verify_code">کد ارسال شده را وارد نمایید</string>
+    <string name="verify_text">تایید</string>
+</resources>
